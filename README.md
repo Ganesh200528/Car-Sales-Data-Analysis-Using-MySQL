@@ -1,5 +1,5 @@
 # 🚗 Car-Sales-Data-Analysis-Using-MySQL 🚗
-# 🚀DataSet Fields Are🚀, 
+# 🚀DataSet Fields Are🚀
 Car_id , 
 Date ,
 Customer_Name ,
