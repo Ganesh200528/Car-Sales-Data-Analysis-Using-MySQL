@@ -17,7 +17,7 @@ Body_Style
 Phone
 Dealer_Region
 
-# 🛻Car Sales Database (MySQL)🛻
+# 🛻Car Sales DataBase (MySQL)🛻
 This project contains an SQL database for analyzing car sales data using MySQL 8.0. It includes a structured dataset with details on dealers, customers, transactions, and car models. 
 The database is designed for performing advanced SQL queries, including aggregations, ranking, and performance optimizations.
 
