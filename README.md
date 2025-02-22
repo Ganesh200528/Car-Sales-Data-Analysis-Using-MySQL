@@ -37,5 +37,4 @@ Includes price, sale date, and discounts (if applicable).
 4. Car Models Table
 Stores information about different car models, including brand, type, and price category.
 Useful for analyzing the popularity of specific car models.
-
 # ou're welcome!😊
