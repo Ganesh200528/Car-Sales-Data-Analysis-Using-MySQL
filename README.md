@@ -1,5 +1,5 @@
-# Car-Sales-Data-Analysis-Using-MySQL
-# DataSet Fields Are,
+# 🚗 Car-Sales-Data-Analysis-Using-MySQL 🚗
+# DataSet Fields Are, 👌
 Car_id , 
 Date ,
 Customer_Name ,
@@ -17,7 +17,7 @@ Body_Style
 Phone
 Dealer_Region
 
-# Car Sales Database (MySQL)
+# 🚗Car Sales Database (MySQL)🚗
 This project contains an SQL database for analyzing car sales data using MySQL 8.0. It includes a structured dataset with details on dealers, customers, transactions, and car models. 
 The database is designed for performing advanced SQL queries, including aggregations, ranking, and performance optimizations.
 
@@ -25,7 +25,7 @@ Database Overview
 The car sales database is structured to store information about car dealerships, customers, transactions, and pricing.
 It helps in analyzing business performance, customer buying behavior, and dealership efficiency.
 
-1. Dealers Table
+1.🏬 Dealers Table 🏬
 Stores information about car dealers, including their name, location, and total sales.
 Helps in analyzing dealership performance across different regions.
 2. Customers Table
